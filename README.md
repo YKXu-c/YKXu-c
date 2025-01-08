@@ -11,9 +11,7 @@ I am Y.K.Xu, with net name "Oakk".
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
-[![Oakk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YKXu-c&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKXu-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Oakk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YKXu-c&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKXu-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YKXu-c&repo=Lectures-of-condensed-matter)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **YKXu-c/YKXu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
