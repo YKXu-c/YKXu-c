@@ -10,6 +10,8 @@ I am Y.K.Xu, with net name "Oakk" in orther websites.
 - 🔔 I have a personal website www.Oakk.space (Still under construction)
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YKXu-c/YKXu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
