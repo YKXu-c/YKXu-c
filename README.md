@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Y.K.Xu, with net name "Oakk" in orther websites.
+I am Y.K.Xu, with net name "Oakk".
 - 🔭 I’m currently working on Theoritical and numerical methods in condensed matter, General realitivity...
 - 🌱 I’m currently learning Pytorch in reinforcement learning, Gdot, Geometry, Algebra...
 - 💖 I'm intersted in Math, Physics, Pexiel Games, Basketball🏀, sleeping🛏... <!-- - 👯 I’m looking to collaborate on ... -->
