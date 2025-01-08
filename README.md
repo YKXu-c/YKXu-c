@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+1  class Person {
+2      constructor() {
+3        this.name = "YKXu";
+4        this.traits = ["DESIGN", "DEV"];
+5        this.age = new Date().getFullYear() - 2001;
+6      }
+7  }
 <!--
 **YKXu-c/YKXu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
